@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://kwevidienes.github.io/.github/basehead">
+<a href="https://swaffordnoora.github.io/.github/basehead-sound-manager">
 <img src="https://img.shields.io/badge/GET_Basehead-darkgreen?style=for-the-badge&logo=apple" alt="GET Basehead">
 </a>
 </div>
